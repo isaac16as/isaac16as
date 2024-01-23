@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any programming language so i can improve my skil
 - 📫 How to reach me: i.716_ on instagram
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Baldurs<Sekiro
 
 <!---
 isaac16as/isaac16as is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
